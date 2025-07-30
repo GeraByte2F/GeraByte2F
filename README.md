@@ -1,8 +1,21 @@
-##Eu
 
+
+## Sobre mí
 - 
-- Aprendiendo:
+- Geek desde la cuna
 - 
-- I’m looking for help with ...
-- Ask me about ... aaa
-- 📫 How to reach me: 
+## Aprendiendo
+- GNU/Linux
+- Desarrollo web
+- 
+
+## Habilidades
+
+- Inglés B1
+- Deutsch A2
+- 
+- 📫 How to reach me:
+
+## Datazos:
+
+- Me gusta el café
