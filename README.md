@@ -4,18 +4,14 @@
 - Estudiante de Ingeniería Civil
 - Geek desde la cuna
 
-## Aprendiendo
-- GNU/Linux
-- Desarrollo web
-- Edición de multimedia
-- C - C++
-
 ## Temas de interés
-- Programación Fullstack
+- GNU/Linux
+- C | C++
 - AI & Machine Learning
 - DB & Data Science
+- Desarrollo Web
+- Edición de Multimedia
 
-  
 ## Habilidades
 
 - 🇬🇧 B1 - 🇩🇪 A2
@@ -24,7 +20,7 @@
 ## Datazos:
 
 - Me gusta el café
-- Novato en la vida citadina
+- Nuevo en la vida citadina
 - Amo la lingúística y los idiomas
 - Open Source lover
 - Debian enjoyer
