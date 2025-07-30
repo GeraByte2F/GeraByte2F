@@ -7,12 +7,14 @@
 ## Aprendiendo
 - GNU/Linux
 - Desarrollo web
+- Edición de multimedia
 - C - C++
 
 ## Temas de interés
 - Programación Fullstack
 - AI & Machine Learning
 - DB & Data Science
+
   
 ## Habilidades
 
