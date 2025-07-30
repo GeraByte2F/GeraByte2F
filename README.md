@@ -17,7 +17,7 @@
   
 ## Habilidades
 
-- Inglés B1 - Deutsch A2
+- 🇬🇧 B1 - 🇩🇪 A2
 - Manejo computacional moderado
 
 ## Datazos:
