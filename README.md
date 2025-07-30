@@ -3,7 +3,6 @@
 ## Sobre mí
 - Estudiante de Ingeniería Civil
 - Geek desde la cuna
-- 
 
 ## Aprendiendo
 - GNU/Linux
