@@ -19,8 +19,8 @@
 
 ## Datazos:
 
-- Me gusta el café
-- Nuevo en la vida citadina
-- Amo la lingúística y los idiomas
 - Open Source lover
 - Debian enjoyer
+- Nuevo en la vida citadina
+- Amo la lingúística y los idiomas
+- Me gusta el café
