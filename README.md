@@ -7,6 +7,7 @@
 ## Temas de interés
 - GNU/Linux
 - C | C++
+- Low-Level
 - AI & Machine Learning
 - DB & Data Science
 - Desarrollo Web
@@ -20,7 +21,6 @@
 ## Datazos:
 
 - Open Source lover
-- Debian enjoyer
-- Nuevo en la vida citadina
+- Arch enjoyer btw
 - Amo la lingúística y los idiomas
-- Me gusta el café
+- Amante del mate y el café
