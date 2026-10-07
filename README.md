@@ -1,8 +1,5 @@
-
-
 ## Sobre mí
-- Estudiante de Ingeniería Civil
-- Geek desde la cuna
+- Estudiante de Ingeniería Civil en Computación
 
 ## Temas de interés
 - GNU/Linux
@@ -10,13 +7,14 @@
 - Low-Level
 - AI & Machine Learning
 - DB & Data Science
-- Desarrollo Web
 - Edición de Multimedia
 
 ## Habilidades
 
 - 🇬🇧 B1 - 🇩🇪 A2
-- Manejo computacional moderado
+
+- Manejo de C
+- 
 
 ## Datazos:
 
@@ -24,3 +22,4 @@
 - Arch enjoyer btw
 - Amo la lingúística y los idiomas
 - Amante del mate y el café
+- Speedcuber
